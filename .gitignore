@@ -1,2 +1,11 @@
+# Project
 secrets
+data/saved_data/*
+!data/saved_data/.gitkeep
+
+# Editor
 .vscode
+
+# Python
+*.pyc
+*.pyo
